@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {
+      "kty":"RSA",
+      "e":"AQAB",
+      "kid":"893ea8b6-feaa-4b66-b01c-9b16d40b6c58",
+      "n":"w77wopWw0nRKuEXI3palTCWm_u4QjehbswevhPWqBwOPwauJU_rKhVqrGhwBxGoRX23TXSyy2692gl3kBrTZAyqPQkknaQMQb7LzI4PylGe9p1GWsWrMFlUfMYTX3-Vk8PpOGC4pHeB_9Ve8BuJv3vUr4aXD5wAwGNkpEaJQ1kJJyelFkMZuQdayJgZ6oAI1rgYGz4LQYwTRox1c-SbEHDzKT3cYFF7prz4S5dLnyvzvzwOo_JcOQ2lBDzQQ0wgYQYDsL5NjiqNLcK8MFNc5_E8ZiX2E5LVrDpG1heAUiW8bgbI93dVCKM5Uxf9UTk-Ynr9QIrv55rNEmLvk57vKfw"
+    }
+  ]
+}
