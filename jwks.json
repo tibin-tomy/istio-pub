@@ -1,12 +1,9 @@
-Public key:
 {
   "keys": [
     {
       "kty": "RSA",
-      "e": "AQAB",
-      "use": "sig",
-      "kid": "1",
-      "n": "0rIUlfYpVbPfFld2pcaQrxx4bt2g3O1boWuyCg9kPW-STuRbR6Q0dt46oi9wt8Ou8suSYHjdX_0h8n8wlItlob9Q4FtGtrgVAJohUHkm6ZsRQy8g4QO4g66VI8c4mgMFyof_nW3nMcdYKbEO_wqdW_Rhm8ZsQ_gpnHIrfpQexwENOEqZ1UpeE044odHNKO8dbMUYaSqV84DPQN1g6JpsURfOxeZ-66ryalTL2hwzcqb4wvGOtHHwDvWfkVLB-EGNVRsJAaC3YwMH0t56zSsnjXFm8uaIgDkGOpBiZlikSU3tLoZkl6Pb6UPEK_GXsOAeA_5lMFnPpp_8dO6VsSTF-w"
+      "n": "vbsKWei4uqqy7ukLJZotVMSMzzjAZW0Uaxz0GK3qQ2VBnPVy2bzUg0EoEghU1IIATnK25_dRxhbHt6tqFyEr39nEl-O4IcZaK2ZDsCU7DQexJT8ONNs2o8bgpQEV_putsBYxqZ96uUESTtZ3K_GcTvkEYx-FwwsYrYBKzLkQG-pqOSlUB_Zi4InWlBFWkpOwd6y2WLINDbCcHUQNMU-KihTpI06ghLDnnqksyBPdbnBr5lJZSNudVZQjItN_97tD8ilPrbG1-HqSkNNGRwbzm_wlyrBMT4lPHuiIjSbqTZHcJAMv4U9u7qryjr1i9BUo1zY22XRU0eyOaxOeooSTww",
+      "e": "AQAB"
     }
   ]
 }
